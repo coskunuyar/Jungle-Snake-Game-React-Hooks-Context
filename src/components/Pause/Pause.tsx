@@ -13,4 +13,4 @@ function Pause(){
         )
 }
 
-export default Pause;
+export default React.memo(Pause);
