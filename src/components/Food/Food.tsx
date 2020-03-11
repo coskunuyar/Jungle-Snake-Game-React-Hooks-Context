@@ -10,4 +10,4 @@ function Food(){
         );
 }
 
-export default Food;
+export default React.memo(Food);
